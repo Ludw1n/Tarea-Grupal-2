@@ -1,0 +1,192 @@
+alignas
+alineacion
+Permite especificar la alineacion de un tipo o variable en memoria.
+asm
+insercion de ensamblador
+Permite incluir fragmentos de codigo en lenguaje ensamblador.
+auto
+automatico
+Permite la deduccion automatica del tipo de una variable por el compilador.
+bool
+booleano
+Tipo de dato que representa true o false.
+break
+romper
+Interrumpe la ejecucion de un bucle o de un switch.
+case
+caso
+Etiqueta dentro de un switch para comparar el valor.
+catch
+capturar
+Bloque que maneja excepciones lanzadas por try.
+char
+caracter
+Tipo de dato para representar un solo caracter.
+cin
+entrada
+Permite recibir datos desde la entrada estandar (generalmente el teclado).
+class
+clase
+Define un nuevo tipo de dato con encapsulacion de datos y metodos.
+const
+constante
+Declara que una variable no puede modificarse tras su inicializacion.
+const_cast
+conversion const
+Permite anadir o quitar el calificador const a un puntero o referencia.
+continue
+continuar
+Salta a la siguiente iteracion del bucle.
+cout
+salida
+Permite enviar datos a la salida estandar (generalmente la pantalla).
+default
+predeterminado
+Caso por defecto en una estructura switch.
+delete
+eliminar
+Libera memoria asignada dinamicamente con new.
+do
+hacer
+Inicia un bucle que se ejecuta al menos una vez, comprobando la condicion al final.
+double
+doble precision
+Tipo de dato de punto flotante de doble precision.
+dynamic_cast
+conversion dinamica
+Realiza conversiones seguras de punteros o referencias en jerarquias de herencia.
+else
+sino
+Bloque alternativo en una estructura if.
+enum
+enumeracion
+Define un conjunto de constantes con nombre.
+explicit
+explicito
+Evita conversiones implicitas en constructores de un solo parametro.
+extern
+externo
+Declara que una variable o funcion esta definida en otro archivo.
+false
+falso
+Valor literal booleano falso.
+float
+flotante
+Tipo de dato de punto flotante de precision simple.
+for
+para
+Inicia un bucle con inicializacion, condicion y incremento.
+friend
+amigo
+Permite a otra clase o funcion acceder a los miembros privados o protegidos.
+goto
+ira
+Salta a una etiqueta dentro del mismo ambito.
+if
+si
+Inicia una estructura condicional.
+inline
+en linea
+Sugiere al compilador sustituir llamadas de funcion con el codigo de la funcion.
+int
+entero
+Tipo de dato para numeros enteros.
+long
+largo
+Modificador de tipo int para ampliar su rango.
+mutable
+mutable
+Permite modificar un miembro incluso si el objeto es const.
+namespace
+espacio de nombres
+Agrupa identificadores para evitar colisiones de nombres.
+new
+nuevo
+Asigna memoria dinamicamente y llama al constructor.
+operator
+operador
+Permite sobrecargar operadores para tipos definidos por el usuario.
+private
+privado
+Especificador de acceso miembros accesibles solo dentro de la clase.
+protected
+protegido
+Especificador de acceso miembros accesibles en la clase y sus derivadas.
+public
+publico
+Especificador de acceso miembros accesibles desde cualquier lugar.
+register
+registro
+Sugerencia de almacenamiento en registros de CPU.
+reinterpret_cast
+conversion reinterpretada
+Realiza conversiones arbitrarias de punteros sin comprobaciones.
+return
+retornar
+Termina la funcion y opcionalmente devuelve un valor.
+short
+corto
+Modificador de tipo int para reducir su rango.
+signed
+signado
+Modificador de enteros que permite valores negativos.
+sizeof
+tamano de
+Operador que devuelve el tamano en bytes de un tipo o variable.
+static
+estatico
+Define duracion de almacenamiento estatica o enlace interno al archivo.
+static_cast
+conversion estatica
+Realiza conversiones de tipos en tiempo de compilacion.
+struct
+estructura
+Define un tipo de dato con miembros publicos por defecto.
+switch
+alternativa
+Estructura de seleccion multiple basada en un valor.
+template
+plantilla
+Permite la programacion generica con tipos parametrizados.
+this
+este
+Puntero que apunta al objeto actual.
+throw
+lanzar
+Lanza una excepcion.
+true
+verdadero
+Valor literal booleano verdadero.
+try
+intentar
+Bloque para probar codigo que puede generar excepciones.
+typedef
+alias de tipo
+Crea un alias para un tipo existente.
+typeid
+identificador de tipo
+Operador que obtiene informacion de tiempo de ejecucion de un tipo.
+typename
+nombre de tipo
+Especificador que indica que un identificador es un tipo en plantillas.
+union
+union
+Define un tipo cuyos miembros comparten la misma area de memoria.
+unsigned
+sin signo
+Modificador de enteros que solo representa valores no negativos.
+using
+usando
+Introduce nombres de espacio de nombres o crea alias de tipo.
+virtual
+virtual
+Indica metodos que pueden sobrescribirse en clases derivadas.
+void
+vacio
+Indica que no hay valor o tipo de retorno.
+volatile
+volatile
+Indica que una variable puede cambiar fuera del control del codigo.
+while
+mientras
+Inicia un bucle que comprueba la condicion antes de cada iteracion.
