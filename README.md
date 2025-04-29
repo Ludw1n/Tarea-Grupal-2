@@ -6,7 +6,7 @@ Traducir código fuente C++ línea por línea, reemplazando las palabras clave p
 
 📂 Estructura del proyecto
 Parte	Integrante responsable	Descripción
-Parte 1	[Ludwin Alexander Luciano Ajualip de León]	Includes, estructura Palabra, variables globales, diccionario y lista de palabras base
+Parte 1	[Ludwin Alexander Luciano Ajualip de León]	Includes, estructura Palabra, variables globales y lista de palabras base
 Parte 2	[Nombre 2]	Funciones CRUD: crear, leer, actualizar, borrar palabras
 Parte 3	[Nombre 3]	Carga de archivo diccionario.dat e inicialización automática
 Parte 4	[Nombre 4]	Traducción de código C++ con uso del diccionario
